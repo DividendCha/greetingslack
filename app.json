@@ -11,7 +11,7 @@
   "env": {
     "SLACK_TOKEN": {
       "description": "Your Slack API Token",
-      "value": "1234-12314123123-123123123",
+      "value": "",
       "required": "true"
     },
     "UNFURL_LINKS": {
